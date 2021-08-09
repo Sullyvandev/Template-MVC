@@ -23,7 +23,7 @@ $altoRouter->map(
 /* 2 */'/', 
 /* 3 */    [
         "method" => "affichePageHome",
-        "controller" => "oShop\Controllers\MainController"
+        "controller" => "nameBDD\Controllers\MainController"
     ], 
 /* 4 */'home' );
 
